@@ -130,7 +130,7 @@ Docker image
 Create default MinIO client (Java)
 
 * endpoint
-* accesKey / user
+* accessKey / user
 * secretKey / password
 
 ```
@@ -145,7 +145,7 @@ MinioClient minioClient = MinioClient.builder()
 ---
 
 Create MinIO client with AWS S3 SDK (Java)
-* accesKey / user
+* accessKey / user
 * secretKey / password
 * endpoint
 * region (set to null, if not configured in UI console)
