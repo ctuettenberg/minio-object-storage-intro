@@ -18,8 +18,6 @@ _paginate: false
 
 #### MinIO is a high-performance, S3 compatible object store
 
-https://min.io/
-
 <!--
 
 * implemented in Go language
@@ -27,6 +25,14 @@ https://min.io/
 * runs on any cloud or on-premises infrastructure.
 
 -->
+
+[MinIO website](https://min.io/)
+
+[MinIO GitHub](https://github.com/minio/minio)
+
+---
+
+# Features
 
 #### Active Active Replication for Object Storage
 ![Active-Active Cross Region/Zone Replication](/images/active-active-replication.svg "Active-Active Cross Region/Zone Replication")
