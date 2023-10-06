@@ -12,10 +12,6 @@ _paginate: false
 
 ## Intro to MinIO object storage
 
----
-
-# Intro, reason & background
-
 #### MinIO is a high-performance, S3 compatible object store
 
 <!--
