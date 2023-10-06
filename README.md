@@ -171,7 +171,13 @@ AmazonS3 amazonS3 = AmazonS3ClientBuilder.standard()
 
 ---
 
-# Demo - Travel Expenses Tool
+# Use case 3
+
+## MinIO Testcontainer  for Integration Tests
+
+---
+
+# Demo - MinIO in Travel Expenses Tool
 
 ---
 
